@@ -23,9 +23,9 @@ typedef struct func
 	int (*f)(va_list);
 } func_t;
 
-int print_char(va_list);
-int print_str(va_list);
-int print_cent(va_list);
+int print_char(va_list, args);
+int print_str(va_list, args);
+int print_cent(va_list, args);
 
 #endif
 
