@@ -8,7 +8,7 @@
 
 **Author: [Shannon Simiyu](https://www.linkedin.com/in/shannon-simiyu-660360200/)**
 
-**Author: [Agnes Wangeshi](https://www.linkedin.com/in/agnes-wangechi-gichuhi/)**
+**Author: [Agnes Wangechi](https://www.linkedin.com/in/agnes-wangechi-gichuhi/)**
 
 
 
