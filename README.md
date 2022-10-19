@@ -104,8 +104,6 @@ This project uses the C programming language to recreate some of the printf func
 
 | ---: | --- | --- |
 
-|0| **Mandatory**  |<p>Write a function that produces output according to a fomat.</p><ul><li>Returns: the number of characters printed (excluding the null byte used to end output to strings)</li><li>format is a character string. The format string is composed of zero or more directives</li><li>Handle conversion specifiers: c, s, %</li><li>You don't have to reproduce buffer, handle flags, field width, precision, or length modifiers</li></ul>|
-
+|0|**Mandatory** |<p>Write a function that produces output according to a fomat.</p><ul><li>Returns: the number of characters printed (excluding the null byte used to end output to strings)</li><li>format is a character string. The format string is composed of zero or more directives</li><li>Handle conversion specifiers: c, s, %</li><li>You don't have to reproduce buffer, handle flags, field width, precision, or length modifiers</li></ul>|
 |1| **Mandatory**  |<p>Handle the following conversion specifiers:</p> <ul><li>d</li><li>i</li></ul>|
-
 |2| **Mandatory**  |<p>Write a man page for your function.</p>|
